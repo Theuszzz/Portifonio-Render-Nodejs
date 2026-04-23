@@ -1,0 +1,27 @@
+{
+  "name": "Matheus Fernandes de Abreu",
+  "title": "Desenvolvedor Full Stack",
+  "about": "Apaixonado por construir soluções escaláveis, limpas e orientadas a impacto. +X anos de experiência com JavaScript, Node.js e arquitetura de APIs.",
+  "skills": ["JavaScript", "TypeScript", "Node.js", "Express", "React", "PostgreSQL", "Docker", "Git"],
+  "projects": [
+    {
+      "title": "API de Gerenciamento de Tarefas",
+      "description": "RESTful API com autenticação JWT, paginação e documentação Swagger.",
+      "tech": ["Node.js", "Express", "PostgreSQL", "Docker"],
+      "github": "https://github.com/theuszzz",
+      "live": "https://github.com/IsaacLusca/projeto-integrador-easycar"
+    },
+    {
+      "title": "Dashboard de Métricas",
+      "description": "Interface em tempo real com WebSockets e gráficos interativos.",
+      "tech": ["React", "Chart.js", "Socket.io", "Redis"],
+      "github": "https://github.com/seu-usuario/projeto-2",
+      "live": null
+    }
+  ],
+  "contact": {
+    "email": "seu@email.com",
+    "github": "https://github.com/seu-usuario",
+    "linkedin": "https://linkedin.com/in/seu-usuario"
+  }
+}
