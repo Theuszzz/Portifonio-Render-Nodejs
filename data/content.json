@@ -1,7 +1,7 @@
 {
   "name": "Matheus Fernandes de Abreu",
   "title": "Desenvolvedor Full Stack",
-  "about": "Apaixonado por construir soluções escaláveis, limpas e orientadas a impacto. +X anos de experiência com JavaScript, Node.js e arquitetura de APIs.",
+  "about": "Apaixonado por construir soluções escaláveis, limpas e orientadas a impacto. JavaScript, Node.js e arquitetura de APIs.",
   "skills": ["JavaScript", "TypeScript", "Node.js", "Express", "React", "PostgreSQL", "Docker", "Git"],
   "projects": [
     {
@@ -19,9 +19,14 @@
       "live": null
     }
   ],
+  "certificados":[
+    {
+      "Redes": "Cisco"
+    }
+  ],
   "contact": {
-    "email": "seu@email.com",
-    "github": "https://github.com/seu-usuario",
-    "linkedin": "https://linkedin.com/in/seu-usuario"
+    "email": "royal.edgy@outlook.com",
+    "github": "https://github.com/theuszzz",
+    "linkedin": "https://linkedin.com/"
   }
 }
