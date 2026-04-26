@@ -19,11 +19,13 @@
       "live": null
     }
   ],
-  "certificados":[
-    {
-      "Redes": "Cisco"
-    }
-  ],
+  "certificados":[    {
+      
+          "title": "Cisco",
+          "description": "Cisco"
+    }]
+
+  ,
   "contact": {
     "email": "royal.edgy@outlook.com",
     "github": "https://github.com/theuszzz",

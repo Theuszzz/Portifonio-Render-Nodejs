@@ -35,6 +35,17 @@ document.addEventListener('DOMContentLoaded', async () => {
       `;
       projectsGrid.appendChild(card);
     });
+    // Certificados
+    const certificadosGrid = document.getElementById('certificados-grid');
+    data.certificados.forEach(cert =>{
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
+        <h3>${cert.title}</h3>
+        <p>${cert.description}</p>
+      `;
+      certificadosGrid.appendChild(card);
+    });
 
     // Contato
     const contactLinks = document.getElementById('contact-links');
